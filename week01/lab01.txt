@@ -17,3 +17,4 @@ drwxr-xr-x  2 rizky.aly StafCS 4096 Sep  7 11:12 week08
 drwxr-xr-x  2 rizky.aly StafCS 4096 Sep  7 11:12 week09
 drwxr-xr-x  2 rizky.aly StafCS 4096 Sep  7 11:12 week10
 /home/fasilkom/mahasiswa/r/rizky.aly/os162/week01
+Today is 07 Sep 2016 at 15:44:51

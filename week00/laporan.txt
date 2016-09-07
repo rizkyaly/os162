@@ -1,0 +1,6 @@
+In week00 we need to make sure we have a google account and GitHub account,
+if we didn't have that account we need to make it first.
+After that we need to make a repository in our GitHub, and name it with os162.
+After that we need to login to our google account then we need to fill a form.
+After 24 hours we should be able to log in to badak using our SIAK account.
+

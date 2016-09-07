@@ -1,0 +1,5 @@
+in week01 we are studying about connecting git to badak server.
+Starting from cloning our GitHub and creating new file.
+Now i'm already understand about push and pull to GitHub because of the pdf from week01.
+In this task we are also asked to move a file inside another file from badak.
+Now after I finish writing this report I will continue the task.
